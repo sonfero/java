@@ -1,0 +1,10 @@
+Add ilk commit eklendi
+Bla Bla
+git log
+git checkout
+git diff
+git init
+git status
+git add
+git commit
+
