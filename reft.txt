@@ -7,4 +7,13 @@ git init
 git status
 git add
 git commit
-
+git branch
+git branch xy
+git checkout xylog
+git add (staging area)log
+git log --graph --oneline master coins
+git checkout -b newbranch
+git gc
+git merge
+git show
+git branch -dq name

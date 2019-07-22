@@ -1,0 +1,9 @@
+How to create repository
+change directory in terminal with cd and ls command
+git init (initialize and creates a git repo)
+ls -a (see the hidden git folder)
+git log (control et)
+git status (git durumuna bak)
+git add (dosyaları ekleyerek staging bölgesine al)
+git commit (ile comment yaz)
+git commit -m "not düş"
